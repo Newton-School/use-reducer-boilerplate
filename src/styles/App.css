@@ -1,0 +1,12 @@
+*{
+    font-family: sans-serif;
+}
+
+.box{
+    font-size: 2rem;
+    padding: 10px;
+    border: 1px solid black;
+    width: 30px;
+    margin: 10px;
+    text-align: center;
+}
